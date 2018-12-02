@@ -18,9 +18,8 @@
 
 <style lang="scss">
 .biography {
-  position: relative;
-  top: 10em;
   height: 100vh;
+  position: relative;
   text-align: center;
   color: white;
   .description {
@@ -75,7 +74,6 @@
 }
 @media (max-width: 480px) {
   .biography {
-    top: 85em;
     img {
       display: none;
     }
@@ -86,7 +84,16 @@
 }
 @media (max-width: 767px) {
   .biography {
-    top: 95em;
+    img {
+      display: none;
+    }
+    .description {
+      width: 80%;
+    }
+  }
+}
+@media (max-width: 823px) {
+  .biography {
     img {
       display: none;
     }

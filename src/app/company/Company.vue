@@ -115,4 +115,12 @@ export default {
     width: 85%;
   }
 }
+@media (max-width: 823px) {
+  .description,
+  .site,
+  .technologies,
+  .logo {
+    width: 85%;
+  }
+}
 </style>

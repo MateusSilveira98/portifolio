@@ -27,10 +27,9 @@ export default {
 
 <style lang="scss">
 .portifolio {
-  height: 100vh;
   position: relative;
-  top: 6em;
   text-align: center;
+  margin: 10em 0;
   .cards {
     margin-top: 1em;
     display: grid;
@@ -89,6 +88,18 @@ export default {
   }
 }
 @media (max-width: 767px) {
+  .portifolio {
+    .cards {
+      display: block;
+      width: 100%;
+      .card {
+        opacity: 1;
+        margin: 1em auto;
+      }
+    }
+  }
+}
+@media (max-width: 823px) {
   .portifolio {
     .cards {
       display: block;

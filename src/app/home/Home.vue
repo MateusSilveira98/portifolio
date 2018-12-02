@@ -62,5 +62,12 @@ export default {
     }
   }
 }
+@media (max-width: 823px) {
+  .home {
+    .description {
+      width: 77%;
+    }
+  }
+}
 
 </style>
