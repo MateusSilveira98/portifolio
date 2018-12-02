@@ -170,5 +170,22 @@
         }
       ]
     }
+  },
+  {
+    "id": 7,
+    "name": "Interativa",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543773828/portifolio/empresas/kinterativa.svg",
+    "project": {
+      "name": "Tattoaria",
+      "description": "Um site para encontrar tatuadores, fazer orçamentos e visualizar tatuagens, só atuei no front",
+      "link": "http://kinterativa.tplinkdns.com:8083/",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Angular 6",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763524/portifolio/tools/angular.png"
+        }
+      ]
+    }
   }
 ]
