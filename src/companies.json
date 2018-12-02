@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "name": "dasa",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763489/portifolio/empresas/dasa.png",
+    "project": {
+      "name": "Área logada - laboratórios",
+      "description": "Um site responsivo para visualizar vários tipos exames realizados de uma forma simples e intuitiva",
+      "link": "",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "React",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763529/portifolio/tools/react.png"
+        },
+        {
+          "id": 2,
+          "name": "SASS",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763532/portifolio/tools/sass.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "eztravel",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763489/portifolio/empresas/eztravel.png",
+    "project": {
+      "name": "Eztravel",
+      "description": "Sistema multitenant ou whitelabel de reserva e pagamentos para turismo e lazer, o front-end foi desenvolvida em 3 partes que são: backoffice, client e uma landpage. O acesso público é somente na landpage (link abaixo) ou cliente que comprou o sistema e disponibilizou viagens para compra.",
+      "link": "http://eztravel.com.br/",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Vue",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763529/portifolio/tools/vuejs.png"
+        },
+        {
+          "id": 2,
+          "name": "SASS",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763532/portifolio/tools/sass.png"
+        },
+        {
+          "id": 3,
+          "name": "Node",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763527/portifolio/tools/nodejs.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Unesp",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763491/portifolio/empresas/observatoriodeconflitos.webp",
+    "project": {
+      "name": "Observatório de conflitos",
+      "description": "Aplicativo onde os usuários poderão relatar conflitos por todas as partes do mundo, tirando fotos e anexando vídeos referente ao conflito. Cada conflito estará disponível para consulta no sistema Observatório Web *linkweb , que foi divido em 2 partes que são: backoffice e client. Link para app abaixo",
+      "link": "https://play.google.com/store/apps/details?id=com.ippri.observatorio&hl=en_US",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763527/portifolio/tools/html5.png"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763525/portifolio/tools/css.png"
+        },
+        {
+          "id": 3,
+          "name": "Java Script",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763525/portifolio/tools/js.png"
+        },
+        {
+          "id": 4,
+          "name": "Ionic",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763525/portifolio/tools/ionic.png"
+        },
+        {
+          "id": 5,
+          "name": "Ruby on rails",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763531/portifolio/tools/ruby-on-rails.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Unicamp",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763493/portifolio/empresas/genova.png",
+    "project": {
+      "name": "Genova Ecosystem",
+      "description": "Um site whitelabel onde empresas anunciam vagas e necessidades de negócio, outras empresas podem lançar uma proposta a esses negócios e candidatos podem se candidatar as vagas. Foi desenvolvida a parte client onde tem o link abaixo e a parte backoffice onde o acesso é restrito",
+      "link": "http://genova-staging.s3-website-us-east-1.amazonaws.com/",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Vue",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763529/portifolio/tools/vuejs.png"
+        },
+        {
+          "id": 2,
+          "name": "SASS",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763532/portifolio/tools/sass.png"
+        },
+        {
+          "id": 3,
+          "name": "Php",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763526/portifolio/tools/php.png"
+        },
+        {
+          "id": 4,
+          "name": "Node",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763527/portifolio/tools/nodejs.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Somos",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763491/portifolio/empresas/somos.png",
+    "project": {
+      "name": "Avalia +",
+      "description": "Um site onde todo o corpo estudantil (coordenadores, professores etc...) gerencia sua escola, cria provas, corrige provas através da leitura de um gabarito, imprime relatórios, monta salas, entre várias funções",
+      "link": "",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Angular 4",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763524/portifolio/tools/angular.png"
+        },
+        {
+          "id": 2,
+          "name": "SASS",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763532/portifolio/tools/sass.png"
+        },
+        {
+          "id": 3,
+          "name": "C#",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763524/portifolio/tools/c.png"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Somos",
+    "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763491/portifolio/empresas/somos.png",
+    "project": {
+      "name": "Boletim +",
+      "description": "Um site onde todo o corpo estudantil (coordenadores, professores etc...) apontam notas, criam estruturas avaliativas, recáclulo de notas, entre várias outras funções",
+      "link": "",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Angular 6",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763524/portifolio/tools/angular.png"
+        },
+        {
+          "id": 2,
+          "name": "SASS",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763532/portifolio/tools/sass.png"
+        },
+        {
+          "id": 3,
+          "name": "C#",
+          "logoName": "https://res.cloudinary.com/mateus-costa/image/upload/v1543763524/portifolio/tools/c.png"
+        }
+      ]
+    }
+  }
+]
